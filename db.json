@@ -1,0 +1,12 @@
+{
+    "personas": [
+        {
+            "nombre": "A",
+            "email": "a"
+        },
+        {
+            "nombre": "B",
+            "email": "b"
+        }
+    ]
+}
